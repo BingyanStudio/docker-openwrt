@@ -26,3 +26,5 @@ done
 
 
 [ -x after_build.sh ] && ./after_build.sh
+
+return 0
